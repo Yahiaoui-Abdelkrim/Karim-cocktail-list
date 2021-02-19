@@ -18,7 +18,7 @@ const SearchForm = () => {
     <section className="section search">
       <form className="search-form" onSubmit={handleSubmit}>
         <div className="form-control">
-          <label htmlFor="name">ara el assem</label>
+          <label htmlFor="name">Sofiane labass?</label>
           <input
             type="text"
             id="name"
